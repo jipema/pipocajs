@@ -1,4 +1,4 @@
-# pipocaJS
+# PipocaJS
 ## Fullstack Progressive Web App Framework
 
 Demo is available here: https://app.pipocajs.com
